@@ -14,6 +14,7 @@ Extensions:
 * Pylance
 * Python
 * Python Debugger
+* cSpell
 * Thunder Client
 * Awesome Flutter Snippets
 * Back & Forth
