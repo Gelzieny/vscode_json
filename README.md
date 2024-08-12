@@ -3,6 +3,7 @@
 Extensions:
 
 * SonarLint
+* Code Spell Checker
 * Dart
 * Dev Containers
 * Remote Development
